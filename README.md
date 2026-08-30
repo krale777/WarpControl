@@ -1,1 +1,1 @@
-Will soon return with more information if this project (fork) will work to my new WarpShell or not.
+Will soon return with more information if this project (fork) will work with the new WarpShell or not.
